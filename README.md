@@ -11,7 +11,7 @@
 ![캡처1](https://user-images.githubusercontent.com/114123599/198919278-ac30ee68-44d8-4c5c-9589-25f158bb262b.JPG)
 
 # 계산기 UI 구현
-+ 기존의 4X4 버튼 계산기에서 삼성 갤럭시 노트20 계산기처럼 5X4 버튼으로 변경했고, 색상 변경을 했습니다.
++ 기존의 4X4 버튼 계산기에서 삼성 갤럭시 노트20 계산기처럼 5X4 버튼으로 추가했고, 색상 변경을 했습니다.
 
 <img src="https://user-images.githubusercontent.com/114123599/198919284-adb3fb2c-4cac-4544-abf5-3793e28e9136.jpg" height="420">
 
