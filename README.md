@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/114123599/198919284-adb3fb2c-4cac-4544-abf5-3793e28e9136.jpg" height="420">
 
 
-# 캡처
+# 결과 캡처
 + 제가 완성한 계산기의 모습은 다음과 같습니다.
 
 ![캡처2](https://user-images.githubusercontent.com/114123599/198919280-b190047b-1474-49ae-b43f-fdf40b8fc0de.JPG)
